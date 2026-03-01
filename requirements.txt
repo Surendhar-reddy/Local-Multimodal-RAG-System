@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+unstructured
+unstructured[all-docs]
+unstructured[local-inference]
+pillow
+lxml
+python-dotenv
+tiktoken
+pytesseract
+reportlab
+streamlit
+faiss-cpu
